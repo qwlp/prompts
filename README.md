@@ -1,5 +1,3 @@
-Of course. Here is the entire library reformatted so that every single prompt is in its own copy-and-paste block.
-
 # Business
 
 ## Realistic Style (25 Prompts)
